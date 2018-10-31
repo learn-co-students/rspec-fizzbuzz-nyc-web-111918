@@ -1,6 +1,9 @@
 require_relative './spec_helper.rb'
 require_relative '../fizzbuzz.rb'
+<<<<<<< HEAD
 # We are missing a 'require_relative' here. Check README.md for instructions and an explanation! 
+=======
+>>>>>>> bb527cf87fe597e204dda7a40f5a80b98e8204ec
 
 describe "fizzbuzz" do
   it 'returns "Fizz" when the number is divisible by 3' do
